@@ -4,7 +4,7 @@
 
 {
     "name": "Authentication OpenID Connect Logout process",
-    "version": "16.0.0.1.0",
+    "version": "18.0.0.0.0",
     "license": "AGPL-3",
     "author": (
         "ICTSTUDIO, André Schenkels, ACSONE SA/NV, Odoo Community Association (OCA)"
